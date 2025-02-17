@@ -1,0 +1,2 @@
+压强 6-14MPa step=1MPa
+时间 3-7s step=0.5s
